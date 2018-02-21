@@ -1,10 +1,10 @@
 Welcome to Texts!
 =================
 
-Texts is “rich editor for plain text”—you can write documents in visual
-interface and they will be saved in plain text format with Markdown markup. This
-document shows some styles available in Texts. Please feel free to edit it—a
-fresh copy is always available via Help menu.
+Tjfkjdkjdkfjkdjfkdjfkdfexts is “rich editor for plain text”—you can write
+documents in visual interface and they will be saved in plain text format with
+Markdown markup. This document shows some styles available in Texts. Please feel
+free to edit it—a fresh copy is always available via Help menu.
 
 Inline Formatting
 -----------------
